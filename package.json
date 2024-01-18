@@ -1,7 +1,7 @@
 {
   "name": "svg-logo-maker",
   "version": "1.0.0",
-  "description": "Week-10 Challenge",
+  "description": "",
   "main": "index.js",
   "directories": {
     "example": "examples",
@@ -12,15 +12,15 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/rmessett15/SVG-Logo-Maker.git"
+    "url": "https://github.com/kalleepar/NewLogoMaker10"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/rmessett15/SVG-Logo-Maker/issues"
+    
   },
-  "homepage": "https://github.com/rmessett15/SVG-Logo-Maker#readme",
+  "homepage": "",
   "dependencies": {
     "inquirer": "^8.2.4"
   },
