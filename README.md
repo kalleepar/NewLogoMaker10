@@ -17,25 +17,25 @@ Create a logo for your brand with unique color, shape, and text!
 Node:
 -Inquirer
 -fs
--GenerateMarkdown
+-Jest
 
 ## Usage
 Video Demo:
 https://app.screencastify.com/v3/watch/1j4NRAyaTuEyuDfVKqha
 
-![Alt text](https://github.com/kalleepar/ReadmeGenerator2.0/blob/d20b73917af596b40b1977153f4d3f4b58e3f7b8/Develop/images/readmegeneratorsample1.jpg)
-![Alt text](https://github.com/kalleepar/ReadmeGenerator2.0/blob/d20b73917af596b40b1977153f4d3f4b58e3f7b8/Develop/images/readmegeneratorsample2.jpg)
-![Alt text](https://github.com/kalleepar/ReadmeGenerator2.0/blob/d20b73917af596b40b1977153f4d3f4b58e3f7b8/Develop/images/readmegeneratorsample3.jpg)
+![Alt text](https://github.com/kalleepar/NewLogoMaker10/blob/main/images/logomakersample1.jpg)
+![Alt text](https://github.com/kalleepar/NewLogoMaker10/blob/main/images/logomakersample2.jpg)
+![Alt text](https://github.com/kalleepar/NewLogoMaker10/blob/main/images/logomakersample3.jpg)
 
 ## License 
 MIT
-* As this license list was not comprehensive, if you need another license, use the contact information below to ask for license to be added. 
 
 ## Contributing 
-undefined
+Kalleepar at:
+https://github.com/kalleepar/NewLogoMaker10
 
 ## Tests
-undefined
+.lib/shapes.test.js
 
 ## Contact Information 
 * GitHub Username: Kalleepar
