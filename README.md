@@ -6,12 +6,12 @@
 Create a logo for your brand with unique color, shape, and text!
 
 # Table of Contents 
-* [Installation](#-Installation)
-* [Usage](#-Usage)
-* [License](#-Installation)
-* [Contributing](#-Contributing)
-* [Tests](#-Tests)
-* [Questions](#-Contact-Information)
+* [Installation](##-Installation)
+* [Usage](##-Usage)
+* [License](##-Installation)
+* [Contributing](##-Contributing)
+* [Tests](##-Tests)
+* [Questions](##-Contact-Information)
   
 ## Installation
 Node:
